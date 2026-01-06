@@ -1,0 +1,6 @@
+*.class
+bin/
+out/
+.vscode/
+hs_err_pid*.log
+*.code-workspace
